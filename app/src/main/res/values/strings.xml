@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViews</string>
+    <string name="btn_one_text">Normal Recycler View</string>
+    <string name="btn_two_text">Card View Recycler View</string>
+    <string name="btn_three_text">Card View Recycler View</string>
+    <string name="btn_four_text">Card View Recycler View</string>
+    <string name="btn_five_text">Card View Recycler View</string>
+    <string name="btn_six_text">Card View Recycler View</string>
+</resources>
